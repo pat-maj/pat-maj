@@ -12,13 +12,6 @@ My second year at MMU is an exciting adventure, diving deeper into Java, JavaScr
 ## 💞️ I’m Looking to Collaborate
 I would also like to consider some projects or initiatives to expand with my back-end and full-stack development skills. Open for co-working, internships, or part-time engagements—I would appreciate learning from experienced peers and applying my fast learning and adaptiveness in any team.
 
-## 📫 How to Reach Me
-* Email: patrykk.majcherr@gmail.com
-* LinkedIn: [Patryk Majcher](https://www.linkedin.com/in/pat-majcher/)
-
-## 😄 Pronouns
-He/Him
-
 ## ⚡ Fun Fact
 My adaptability and fast-learning abilities are just the tip of the iceberg. I pride myself on my versatility, empathy, and unique ability to view situations from multiple perspectives. Embracing change is my forte, making me a dynamic team player in any situation.
 
